@@ -110,6 +110,7 @@ def main():
     print(regr.coef_)
     print(regr.intercept_)
 
+    # see ending slope and intercept
     # graphing dataset
     graph(features,target, pred)
 
